@@ -1,0 +1,10 @@
+^C:\CUARTO_A\NAVEGACION-MAIN\BUILD\WINDOWS\CMAKEFILES\47BF7A15CA5E002C5F7036E84ABD98A3\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\CUARTO_A\NAVEGACION-MAIN\BUILD\WINDOWS\CMAKEFILES\47BF7A15CA5E002C5F7036E84ABD98A3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/cuarto_a/Navegacion-main/windows -BC:/cuarto_a/Navegacion-main/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/cuarto_a/Navegacion-main/build/windows/navegacion1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

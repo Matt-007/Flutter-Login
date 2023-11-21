@@ -1,0 +1,13 @@
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/icudtl.dat
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/flutter_windows.dll
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/fonts/BlackOpsOne-Regular.ttf
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/images/1.jpg
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/images/2.png
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/images/3.webp
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/cuarto_a/Navegacion-main/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
